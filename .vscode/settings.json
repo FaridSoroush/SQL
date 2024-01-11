@@ -10,7 +10,7 @@
             "port": 3306,
             "driver": "MySQL",
             "name": "test",
-            "database": "airbnb",
+            "database": "accidents",
             "username": "root",
             "password": "fdgriD$9754"
         }
