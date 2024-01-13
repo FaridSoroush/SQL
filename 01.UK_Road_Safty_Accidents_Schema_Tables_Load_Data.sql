@@ -1,3 +1,5 @@
+DROP DATABASE accidents;
+
 CREATE SCHEMA accidents;
 
 USE accidents;
